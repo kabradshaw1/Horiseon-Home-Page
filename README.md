@@ -1,7 +1,5 @@
 # Horiseon Advertising Services
 
-
-
 ## General
 
 ```
@@ -18,7 +16,11 @@ This project uses html and CSS.
 
 ## Usage
 
-Open deployed webpage at: 
+Open deployed webpage at: https://kabradshaw1.github.io/Horiseon-Home-Page/
+
+## Credit
+
+The majority of the content of this page was provided by the instructors at UNC coding bootcamp.  
 
 - - -
 © 2022 created by . All Rights Reserved.
